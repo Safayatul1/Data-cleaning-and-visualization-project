@@ -78,18 +78,4 @@ This project demonstrates data cleaning, manipulation, and visualization techniq
 
 ---
 
-## Contribution
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push to your branch.
-4. Create a pull request for review.
-
----
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and share.
 
